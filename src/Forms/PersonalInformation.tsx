@@ -54,7 +54,7 @@ const PersonalInformation: FC<Props> = ({
         return (
           <Form className="form_Content">
 
-            <h1>Personal Information</h1>
+            <h1>Personal Info</h1>
 
             <Grid container spacing={3} justify="center">
 
